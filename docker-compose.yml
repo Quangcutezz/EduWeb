@@ -1,0 +1,10 @@
+﻿
+version: '3.8'
+services:
+        mssql:
+                image: mcr.microsoft.com/mssql/server
+                environment:
+                        SA_PASSWORD: tai2k300@@@@@
+                        ACCEPT_EULA: Y
+                ports:
+                        - "1433:1433"  

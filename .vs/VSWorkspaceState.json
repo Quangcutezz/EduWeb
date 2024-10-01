@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\Controllers",
+    "\\Data",
+    "\\Entities",
+    "\\Helper",
+    "\\Migrations",
+    "\\obj",
+    "\\Properties"
+  ],
+  "SelectedNode": "\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
